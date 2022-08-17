@@ -5,9 +5,9 @@
 2.Mongo installed and running in the background
 
 ## to clone into local repo
-1.make a folder 
+1.make a folder
 2.open terminal at the folder 
-3.enter the command "git clone https://github.com/Shanmathi46/todosApp.git"
+3.enter the command "git clone https://github.com/Shanmathi46/urlShortener.git"
 
 ## to run the application
 1.Open terminal at the folder and type "npm install"/"npm i" 
